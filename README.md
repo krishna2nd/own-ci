@@ -1,2 +1,1 @@
-# own-ci
-CI system interface.
+Own CI UI -> React/Redux

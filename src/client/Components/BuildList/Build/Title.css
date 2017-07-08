@@ -1,0 +1,13 @@
+.build .ant-card-head {
+	height: 60px;
+}
+.build h3 {
+	margin-top: 10px;
+	line-height: 20px;
+}
+
+.build .details {
+	margin:0px;
+	padding: 0px;
+	margin-top: -10px;
+}
